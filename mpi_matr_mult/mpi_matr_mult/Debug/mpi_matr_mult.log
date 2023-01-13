@@ -1,0 +1,3 @@
+﻿  mpi_matr_mult.cpp
+c:\users\артем\source\repos\mpi_matr_mult\mpi_matr_mult\mpi_matr_mult.cpp(28): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  mpi_matr_mult.vcxproj -> C:\Users\Артем\source\repos\mpi_matr_mult\Debug\mpi_matr_mult.exe
